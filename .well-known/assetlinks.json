@@ -1,1 +1,9 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.unilever.oneviewnextgen.android.dev",
+    "sha256_cert_fingerprints":
+    ["60:49:84:7F:EB:EB:DA:A3:12:EB:77:FC:C5:B5:BB:09:82:51:7F:60:D0:96:5B:A2:11:DF:B2:C9:D6:50:4A:E5"]
+  }
+}]
